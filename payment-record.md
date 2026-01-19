@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 📈 Gemini 收款進度表
 permalink: /status
 ---
 
