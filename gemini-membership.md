@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 💰 Gemini 費用分攤明細2
+title: 💰 Gemini 費用分攤明細
 permalink: /
 ---
 
